@@ -1,6 +1,8 @@
+import "./footer.css";
+
 function Footer() {
     return (
-      <footer className="text-red-500">
+      <footer className="footer">
         <small>Desarrollado y diseñado por Harold Villacis.</small>  
       </footer>
     );
