@@ -26,7 +26,7 @@ function Main({children}) {
           </Link>
 
         </aside>
-        <main className='main-content'>
+        <main className={estilos.main_content}>
             {children}
         </main>
       </div>
